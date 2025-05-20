@@ -2,7 +2,7 @@
 
 ## Dataset
 
-[[microsoft-azure-predictive-maintenance](https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance)](https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance)
+[(https://www.kaggle.com/datasets/arnabbiswas1/microsoft-azure-predictive-maintenance)]
 
 Objective:
 To predict the date on which a given server may fail, having as input the periodic (time series) telemetry information available from Azure cloud servers and failures recorded on given dates.
